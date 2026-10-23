@@ -1,4 +1,4 @@
-# SIM Data Mahasiswa (PHP Murni + MySQL) - Laragon
+# SIM Data Mahasiswa - Laragon
 
 ## Cara menjalankan
 1. Jalankan **Laragon** -> klik **Start All** (Apache + MySQL).
